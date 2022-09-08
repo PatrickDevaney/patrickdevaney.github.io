@@ -25,6 +25,12 @@ defaults:
   run:
     shell: bash
 
+security:
+  funcs:
+    getenv:
+      - ^HUGO_
+      - ^WC_
+
 jobs:
   # Build job
   build:
