@@ -80,5 +80,7 @@ I am a Computer Science MSc student researching computational geometry at the Un
 {{< staticref "https://jitbose.ca/" "newtab" >}}Jit Bose{{< /staticref >}}. Prior to this, I completed undergraduate degrees in Mathematics and Computer Science with a minor
 in Statistics, also at the University of Windsor.
 
+My {{< staticref "https://en.wikipedia.org/wiki/Erd%C5%91s_number" "newtab" >}}Erdős number{{< /staticref >}} is at most 3 (via Erdős-Aronov-Bose-Devaney or Erdős-Shallit-Biniaz-Devaney).
+
 Outside of academics, I enjoy reading, yoga, and nature photography.
 
